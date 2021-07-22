@@ -4,8 +4,8 @@
 * Blog: 
 
 ## Projects
-* [仿Youtube的RWD練習](https://rwdinyoutube.herokuapp.com/) 
-** Lovely tech stack:Nuxt.js + pug + scss + axios
+* [仿Youtube的RWD](https://rwdinyoutube.herokuapp.com/) 
+  * Lovely tech stack:Nuxt.js + pug + scss + axios
 ## Frontend
 * Has experience for HTML, CSS, SCSS, Bootstrap, JavaScript, Vue.js 
 
