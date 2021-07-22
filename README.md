@@ -3,6 +3,8 @@
 * Location:Taichung, Taiwan 🇹🇼
 * Blog: 
 
+## Projects
+*[仿youtube的ＲＤＷ練習](https://rwdinyoutube.herokuapp.com/)
 ## Frontend
 * Has experience for HTML, CSS, SCSS, Bootstrap, JavaScript, Vue.js 
 
