@@ -4,8 +4,6 @@
 * Blog: 
 
 ## Projects
-* [仿Youtube的RWD](https://rwdinyoutube.herokuapp.com/) 
-  * Lovely tech stack:Nuxt.js + pug + scss + axios
 * [即時查詢台灣目前有什麼活動呢？](https://daisy840121.github.io/festivalMAP/index.html) 
   * Lovely tech stack:JavaScript + scss + API
 ## Frontend
