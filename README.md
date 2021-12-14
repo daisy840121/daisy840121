@@ -4,6 +4,8 @@
 * Blog: 
 
 ## Projects
+* [芭樂形象網站](https://daisy840121.github.io/guava/dist/pages/index.html)
+ * Lovely tech stack:pug + JavaScript + scss + webpack
 * [即時查詢台灣目前有什麼活動呢？](https://daisy840121.github.io/festivalMAP/index.html) 
   * Lovely tech stack:JavaScript + scss + API
 ## Frontend
